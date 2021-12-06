@@ -1,2 +1,2 @@
 # arkos-ja
-ArkOS's Japanese language resource
+ArkOS (https://github.com/christianhaitian/arkos)'s Japanese language resource file.
